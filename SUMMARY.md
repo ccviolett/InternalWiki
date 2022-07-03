@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [个人CRM](ge-ren-crm.md)
+* [个人CRM](ge-ren-crm/README.md)
 * [专业名词](zhuan-ye-ming-ci/README.md)
   * [CRM](zhuan-ye-ming-ci/crm.md)
 
