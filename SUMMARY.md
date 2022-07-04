@@ -3,6 +3,7 @@
 * [Welcome!](README.md)
 * [闲杂](xian-za.md)
 * [专业名词](zhuan-ye-ming-ci/README.md)
+  * [注册表](zhuan-ye-ming-ci/zhu-ce-biao.md)
   * [声卡](zhuan-ye-ming-ci/sheng-ka.md)
   * [话放](zhuan-ye-ming-ci/hua-fang.md)
   * [CRM](zhuan-ye-ming-ci/crm.md)
