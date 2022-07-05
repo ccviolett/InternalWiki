@@ -11,6 +11,7 @@
 * [个人CRM](ge-ren-crm/README.md)
   * [何佳奕](ge-ren-crm/he-jia-yi.md)
 * [课程记录](ke-cheng-ji-lu/README.md)
+  * [模拟电子技术](ke-cheng-ji-lu/mo-ni-dian-zi-ji-shu.md)
   * [数字电子技术](ke-cheng-ji-lu/shu-zi-dian-zi-ji-shu.md)
   * [计算机网络](ke-cheng-ji-lu/ji-suan-ji-wang-luo.md)
   * [CSAPP](ke-cheng-ji-lu/csapp.md)
@@ -18,6 +19,7 @@
   * [线性代数](ke-cheng-ji-lu/xian-xing-dai-shu.md)
   * [高等数学](ke-cheng-ji-lu/gao-deng-shu-xue.md)
 * [信息库](xin-xi-ku/README.md)
+  * [WWDC](xin-xi-ku/wwdc.md)
   * [训练赛目录](xin-xi-ku/xun-lian-sai-mu-lu.md)
 
 ## The Company
