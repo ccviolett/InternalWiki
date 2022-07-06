@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [知识点](zhi-shi-dian/README.md)
+  * [如何去除看不见的空格 <200b>](zhi-shi-dian/ru-he-qu-chu-kan-bu-jian-de-kong-ge-200b.md)
 * [闲杂](xian-za.md)
 * [专业名词](zhuan-ye-ming-ci/README.md)
   * [注册表](zhuan-ye-ming-ci/zhu-ce-biao.md)
