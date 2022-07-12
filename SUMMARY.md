@@ -10,8 +10,6 @@
   * [话放](zhuan-ye-ming-ci/hua-fang.md)
   * [CRM](zhuan-ye-ming-ci/crm.md)
   * [MCU/SCM](zhuan-ye-ming-ci/mcu-scm.md)
-* [个人CRM](ge-ren-crm/README.md)
-  * [何佳奕](ge-ren-crm/he-jia-yi.md)
 * [课程记录](ke-cheng-ji-lu/README.md)
   * [1-高等数学](ke-cheng-ji-lu/1-gao-deng-shu-xue.md)
   * [2-线性代数](ke-cheng-ji-lu/2-xian-xing-dai-shu.md)
@@ -23,13 +21,3 @@
 * [信息库](xin-xi-ku/README.md)
   * [WWDC](xin-xi-ku/wwdc.md)
   * [训练赛目录](xin-xi-ku/xun-lian-sai-mu-lu.md)
-
-## The Company
-
-* [Meet the Team!](the-company/meet-the-team.md)
-* [Vision and Values](the-company/vision-and-values.md)
-
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
