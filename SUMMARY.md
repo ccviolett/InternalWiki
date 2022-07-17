@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [知识点](zhi-shi-dian/README.md)
+* [小问题](zhi-shi-dian/README.md)
   * [如何使用 unordered\_map？](zhi-shi-dian/ru-he-shi-yong-unorderedmap.md)
   * [Ubuntu 如何安装 vmware tools？](zhi-shi-dian/ubuntu-ru-he-an-zhuang-vmware-tools.md)
   * [PS 如何改变图片亮度？](zhi-shi-dian/ps-ru-he-gai-bian-tu-pian-liang-du.md)
