@@ -2,6 +2,8 @@
 
 * [Welcome!](README.md)
 * [小问题](zhi-shi-dian/README.md)
+  * [如何处理多机位素材？](zhi-shi-dian/ru-he-chu-li-duo-ji-wei-su-cai.md)
+  * [Linux 如何查看端口占用情况？](zhi-shi-dian/linux-ru-he-cha-kan-duan-kou-zhan-yong-qing-kuang.md)
   * [如何使用 unordered\_map？](zhi-shi-dian/ru-he-shi-yong-unorderedmap.md)
   * [Ubuntu 如何安装 vmware tools？](zhi-shi-dian/ubuntu-ru-he-an-zhuang-vmware-tools.md)
   * [PS 如何改变图片亮度？](zhi-shi-dian/ps-ru-he-gai-bian-tu-pian-liang-du.md)
